@@ -1,0 +1,12 @@
+{
+  "name": "drupalcommerce/commerce_base",
+  "type": "drupal-profile",
+  "description": "Commerce 2.x installation profile",
+  "homepage": "https://github.com/drupalcommerce/commerce_base",
+  "license": "GPL-2.0+",
+  "require": {
+      "drupal/commerce": "^2.26",
+      "drupal/admin_toolbar": "^3.0",
+      "drupal/symfony_mailer": "^1.0@alpha"
+    }
+}

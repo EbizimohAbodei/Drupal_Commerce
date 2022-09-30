@@ -1,0 +1,10 @@
+name: 'Theme for testing BC template rendering'
+type: theme
+description: 'Test theme which provides an alternative template for BC test mail.'
+base theme: stark
+core_version_requirement: ^9.1
+
+# Information added by Drupal.org packaging script on 2022-08-15
+version: '1.0.0-alpha11'
+project: 'symfony_mailer'
+datestamp: 1660561292
